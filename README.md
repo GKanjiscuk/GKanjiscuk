@@ -1,4 +1,4 @@
-## Olá! Eu sou Giovanni Kanjiscuk 🖐
+## Olá! Eu sou Giovanni Kanjiscuk, bem vindo!
 <div>
   <a href="https://github.com/GKanjiscuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GKanjiscuk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
