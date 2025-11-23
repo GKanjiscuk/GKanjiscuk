@@ -48,7 +48,7 @@
   Contato:
 
 <div>
-  <a href="https://gkanjiscuk.github.io/Portfolio/">
+  <a href="https://giovannikanjiscuk.vercel.app">
   <img src="https://img.shields.io/badge/-Portfólio-%23800020?style=for-the-badge&logoColor=white">
 </a>
  <a href="https://www.instagram.com/gi.kazinski/">
